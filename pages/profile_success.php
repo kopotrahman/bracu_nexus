@@ -16,7 +16,7 @@
 
 <!-- If you want to change the primary color from green to something else. Change it with the tailwind.config.js in the Project Root Folder -->
 
-<body class="bg-gray-100">
+<body class="">
 
       <!-- Responsive navbar-->
 <?php require_once("../partials/navbar.php");
