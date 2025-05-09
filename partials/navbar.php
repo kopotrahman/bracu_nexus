@@ -20,7 +20,7 @@
     </ul>
   </div>
   <div class="navbar-end">
-    <a class="btn">Button</a>
+    <a class="btn" href="/bracu_nexus/pages/login.php">Login</a>
   </div>
 </div>';
 ?>
