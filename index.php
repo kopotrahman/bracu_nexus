@@ -19,15 +19,14 @@
 <body class="bg-gray-100">
 
   <!-- Responsive navbar-->
-  <?php require_once('./partials/navbar.php');
-  showNavbar('home');
+  <?php require('./partials/navbar.php');
   ?>
 
   <main>
 
 
 <!-- Page Content -->
-<section class="relative min-h-[400px] w-full flex items-center justify-center bg-red-500">
+<section class="relative min-h-[400px] w-full flex items-center justify-center">
   <!-- Background image with opacity control -->
   <!-- <div 
     class="absolute inset-0 h-[200px] bg-cover bg-center"
